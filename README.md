@@ -17,7 +17,7 @@ Let’s connect — I’m always up for coding together or jumping into new idea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,react,py,powershell,pnpm,ps,npm,notion,nodejs,nextjs,mongodb,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro,raspberrypi)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,react,py,powershell,pnpm,ps,npm,notion,nodejs,nextjs,mongodb,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro,raspberrypi)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Josset2912&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Josset2912&theme=dark&hide_border=false)<br/>
