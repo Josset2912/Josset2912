@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/) 
 
 # 💻 Tech Stack:
-(https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,reac,py,powershell,pnpm,ps,npm,notion,node.js,next.js,mongo.db,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,reac,py,powershell,pnpm,ps,npm,notion,node.js,next.js,mongo.db,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Josset2912&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Josset2912&theme=dark&hide_border=false)<br/>
