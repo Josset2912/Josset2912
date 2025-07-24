@@ -1,5 +1,16 @@
-# 💫 About Me:
-¡Hola! Soy un joven programador de 25 años de Perú, apasionado por la tecnología y con un deseo imparable de aprender y sobresalir en el mundo del desarrollo. Me impulso por la curiosidad y el entusiasmo por resolver problemas, lo que me lleva a estar siempre en busca de nuevos retos y oportunidades para mejorar mis habilidades.<br><br>A pesar de estar en las primeras etapas de mi carrera, mi enfoque está en crecer rápidamente, participando en proyectos que no solo me desafíen, sino que también me permitan colaborar y aportar valor. Me adapto con facilidad a diferentes entornos de trabajo y disfruto trabajando en equipo, aprendiendo de otros y compartiendo conocimientos.<br><br>Estoy ansioso por involucrarme en proyectos innovadores y contribuir con mi energía y dedicación. Si estás buscando a alguien con pasión, determinación y un fuerte deseo de hacer la diferencia, ¡me encantaría ser parte de tu próximo desafío!
+# 👋 Hey! I'm Josset
+I'm a 27-year-old web developer from Peru 🇵🇪 with a strong passion for technology, learning, and building cool things with code. I love solving problems, exploring new tools, and challenging myself to grow every day.
+
+Currently in the early stages of my tech journey, but I'm all in — always looking for projects that push my limits and help me improve. I thrive in collaborative environments, enjoy sharing knowledge, and believe that teamwork makes everything better.
+
+🧠 Always learning
+💻 Enjoy working on web apps
+🚀 Open to interesting projects & collaborations
+📚 Tech I’ve been using: JavaScript, Astro, Node.js, React, Tailwind, Python, SQL...
+
+Let’s connect — I’m always up for coding together or jumping into new ideas!
+
+
 
 
 ## 🌐 Socials:
