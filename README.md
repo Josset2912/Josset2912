@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077B5&height=220&section=header&text=Josset%20Portuguez&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Auxiliar%20de%20TI&descAlignY=60&descAlign=50"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077B5&height=250&section=header&text=Josset%20Portuguez&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Auxiliar%20de%20TI&descAlignY=60&descAlign=50" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez;Web+Developer;Auxiliar+de+TI;React+Developer;Frontend+Developer;Building+real-world+web+applications" />
