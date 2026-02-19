@@ -30,10 +30,11 @@ I’m constantly learning and improving my skills to become a professional Full-
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/Josset_Portuguez-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josset-portuguez/)
+## 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/jossetpr-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/jossetpr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jossetpr/)
 
 
 # 💻 Tech Stack:
