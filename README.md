@@ -61,7 +61,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=0077B5&center=true&vCenter=true&width=600&lines=Web+Developer;Auxiliar+de+TI;React+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=react"/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
