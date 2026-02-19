@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Josset%20Portugu%C3%A9z%20%E2%9C%8F%EF%B8%8F&descAlign=100&descAlignY=38&section=footer
 # 👋 Hi, I'm Josset Portuguez
 
 💻 Web Developer | Auxiliar de TI | Systems Engineering Student  
