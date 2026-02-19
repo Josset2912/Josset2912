@@ -63,6 +63,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=react"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=react-dark"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
