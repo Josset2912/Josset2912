@@ -31,9 +31,9 @@ I’m constantly learning and improving my skills to become a professional Full-
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josset_Portuguez-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/josset-portuguez/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josset_Portuguez-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@jossetpr-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jossetpr/)
+[![Instagram](https://img.shields.io/badge/Instagram-@jossetpr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jossetpr/)
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,react,py,powershell,pnpm,ps,npm,notion,nodejs,nextjs,mongodb,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro,raspberrypi)
