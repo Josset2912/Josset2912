@@ -59,7 +59,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josset2912&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:E4405F&height=200&section=header&text=Josset%20Portuguez&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+### <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:E4405F&height=200&section=header&text=Josset%20Portuguez&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 
 
