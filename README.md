@@ -56,4 +56,13 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josset2912&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:E4405F&height=200&section=header&text=Josset%20Portuguez&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=0077B5&center=true&vCenter=true&width=600&lines=Web+Developer;Auxiliar+de+TI;React+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=react"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=react-dark"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
