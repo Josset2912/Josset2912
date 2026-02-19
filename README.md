@@ -28,43 +28,12 @@ I’m constantly learning and improving my skills to become a professional Full-
 
 ---
 
-## 🚀 Tech Stack
-
-### 👨‍💻 Frontend
-```
-JavaScript
-React
-Astro
-HTML5
-CSS3
-Tailwind CSS
-```
-
-### ⚙️ Backend
-```
-Node.js
-Python
-SQL Server
-MySQL
-REST APIs
-```
-
-### 🛠️ Tools
-```
-Git
-GitHub
-Netlify
-VS Code
-Power BI
-```
-
----
-
-
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=green)]((https://www.instagram.com/jossetpr/)) 
+
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,tailwind,sqlite,react,py,powershell,pnpm,ps,npm,notion,nodejs,nextjs,mongodb,md,linkedin,jquery,instagram,gmail,git,github,flask,django,discord,cs,cpp,bun,bootstrap,bash,astro,raspberrypi)
