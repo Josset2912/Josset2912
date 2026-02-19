@@ -8,13 +8,13 @@
 
 ## 🧠 About Me
 
-I'm a Web Developer and IT professional with hands-on experience building modern web applications and working in real production environments.
+* I'm a Web Developer and IT professional with hands-on experience building modern web applications and working in real production environments.
 
-Currently working as an **IT Assistant**, where I support systems, manage data, and develop technical solutions to improve operational efficiency.
+* Currently working as an **IT Assistant**, where I support systems, manage data, and develop technical solutions to improve operational efficiency.
 
-I specialize in frontend and full-stack web development, with strong interest in building scalable applications, consuming APIs, and solving real-world problems through technology.
+* I specialize in frontend and full-stack web development, with strong interest in building scalable applications, consuming APIs, and solving real-world problems through technology.
 
-I’m constantly learning and improving my skills to become a professional Full-Stack Developer.
+* I’m constantly learning and improving my skills to become a professional Full-Stack Developer.
 
 ---
 
