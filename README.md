@@ -31,7 +31,7 @@ I’m constantly learning and improving my skills to become a professional Full-
 
 
 ## 🌐 Connect with me
-## 🌐 Connect with me
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/josset-portuguez/">
