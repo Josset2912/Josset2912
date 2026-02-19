@@ -1,4 +1,4 @@
-# 👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F0DB&width=435&lines=+Hi%2C+I'm+Josset+Portuguez" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F0DB&width=435&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez" alt="Typing SVG" /></a>
 
 💻 Web Developer | Auxiliar de TI | Systems Engineering Student  
 🌎 Lima, Peru 🇵🇪  
