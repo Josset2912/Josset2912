@@ -32,7 +32,7 @@ I’m constantly learning and improving my skills to become a professional Full-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josset-portuguez/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=green)]((https://www.instagram.com/jossetpr/)) 
+[![Instagram](https://img.shields.io/badge/Instagram-@jossetpr-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jossetpr/)
 
 
 # 💻 Tech Stack:
