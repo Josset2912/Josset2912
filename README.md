@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez;Web+Developer;Auxiliar+de+TI;React+Developer;Frontend+Developer;Building+real-world+web+applications" />
 </p>
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez" alt="Typing SVG" /></a>
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Auxiliar+de+TI;React+Developer;Frontend+Developer)](https://git.io/typing-svg)
 
 
