@@ -1,31 +1,3 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez" alt="Typing SVG" /></a> 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Auxiliar+de+TI;React+Developer;Frontend+Developer)](https://git.io/typing-svg)
-
----
-
-💻 Web Developer | Auxiliar de TI | Systems Engineering Student  
-🌎 Lima, Peru 🇵🇪  
-🚀 Passionate about building real-world web applications  
-
----
-
-## 🧠 About Me
-
-* I'm a Web Developer and IT professional with hands-on experience building modern web applications and working in real production environments.
-
-* Currently working as an **IT Assistant**, where I support systems, manage data, and develop technical solutions to improve operational efficiency.
-
-* I specialize in frontend and full-stack web development, with strong interest in building scalable applications, consuming APIs, and solving real-world problems through technology.
-
-* I’m constantly learning and improving my skills to become a professional Full-Stack Developer.
-
----
-
-## 💼 Professional Experience
-
-**Auxiliar de TI**  
-• Technical support and systems
-
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%96%90%EF%B8%8F+Hi%2C+I'm+Josset+Portuguez" alt="Typing SVG" /></a>
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Auxiliar+de+TI;React+Developer;Frontend+Developer)](https://git.io/typing-svg)
