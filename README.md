@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76800&width=435&lines=Josset+Portugu%C3%A9z+Rea" alt="Typing SVG" /></a>
 # 👋 Hi, I'm Josset Portuguez
 
 💻 Web Developer | Auxiliar de TI | Systems Engineering Student  
