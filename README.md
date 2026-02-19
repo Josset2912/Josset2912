@@ -4,9 +4,13 @@ I'm a 27-year-old web developer from Peru 🇵🇪 with a strong passion for tec
 Currently in the early stages of my tech journey, but I'm all in — always looking for projects that push my limits and help me improve. I thrive in collaborative environments, enjoy sharing knowledge, and believe that teamwork makes everything better.
 
 🧠 Always learning
+
 💻 Enjoy working on web apps
+
 🚀 Open to interesting projects & collaborations
+
 📚 Tech I’ve been using: JavaScript, Astro, Node.js, React, Tailwind, Python, SQL...
+
 
 Let’s connect — I’m always up for coding together or jumping into new ideas!
 
