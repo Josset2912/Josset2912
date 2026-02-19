@@ -1,18 +1,64 @@
-# 👋 Hey! I'm Josset
-I'm a 27-year-old web developer from Peru 🇵🇪 with a strong passion for technology, learning, and building cool things with code. I love solving problems, exploring new tools, and challenging myself to grow every day.
+# 👋 Hi, I'm Josset Portuguez
 
-Currently in the early stages of my tech journey, but I'm all in — always looking for projects that push my limits and help me improve. I thrive in collaborative environments, enjoy sharing knowledge, and believe that teamwork makes everything better.
+💻 Web Developer | Auxiliar de TI | Systems Engineering Student  
+🌎 Lima, Peru 🇵🇪  
+🚀 Passionate about building real-world web applications  
 
-🧠 Always learning
+---
 
-💻 Enjoy working on web apps
+## 🧠 About Me
 
-🚀 Open to interesting projects & collaborations
+I'm a Web Developer and IT professional with hands-on experience building modern web applications and working in real production environments.
 
-📚 Tech I’ve been using: JavaScript, Astro, Node.js, React, Tailwind, Python, SQL...
+Currently working as an **IT Assistant**, where I support systems, manage data, and develop technical solutions to improve operational efficiency.
 
+I specialize in frontend and full-stack web development, with strong interest in building scalable applications, consuming APIs, and solving real-world problems through technology.
 
-Let’s connect — I’m always up for coding together or jumping into new ideas!
+I’m constantly learning and improving my skills to become a professional Full-Stack Developer.
+
+---
+
+## 💼 Professional Experience
+
+**Auxiliar de TI**  
+• Technical support and systems assistance  
+• Database management and SQL queries  
+• Process automation and system support  
+• Troubleshooting hardware and software issues  
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Frontend
+```
+JavaScript
+React
+Astro
+HTML5
+CSS3
+Tailwind CSS
+```
+
+### ⚙️ Backend
+```
+Node.js
+Python
+SQL Server
+MySQL
+REST APIs
+```
+
+### 🛠️ Tools
+```
+Git
+GitHub
+Netlify
+VS Code
+Power BI
+```
+
+---
 
 
 
