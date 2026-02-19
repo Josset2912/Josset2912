@@ -1,3 +1,15 @@
+<!-- Banner ancho completo -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Josset%20Portuguez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Desarrollador+Web;Analista+de+Datos;Amante+de+la+Tecnología;Bienvenido+a+mi+perfil" />
+</p>
+-------
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077B5&height=250&section=header&text=Josset%20Portuguez&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Auxiliar%20de%20TI&descAlignY=60&descAlign=50" width="100%"/>
 </p>
